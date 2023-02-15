@@ -41,3 +41,7 @@ Uninstall CodeDeploy Agent:
 ```
 sudo yum erase codedeploy-agent
 ```
+
+Reference:
+- https://www.youtube.com/watch?v=Buh3GjHPmjo
+- https://www.youtube.com/watch?v=sXZVkOH6hrA
